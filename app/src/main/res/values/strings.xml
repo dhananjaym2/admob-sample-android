@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AdMob Sample Android</string>
+    <string name="app_id_ad_mob">ca-app-pub-7620111060212369~6630123543</string>
+    <string name="adUnitId_activity_main_bottom">ca-app-pub-7620111060212369/4920745617</string>
 </resources>
